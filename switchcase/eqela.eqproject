@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SwitchCase
+#
+
+projectname: SwitchCase
+vendorid: com.sandoval
+mainmodule: com.sandoval.switchcase
